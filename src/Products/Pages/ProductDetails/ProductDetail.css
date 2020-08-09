@@ -1,0 +1,72 @@
+.row {
+    padding-bottom: 45px;
+}
+.back-btn {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.go-back-txt {
+    margin-left: 10px;
+}
+
+.container {
+    padding: 50px;
+}
+
+.desc-sec {
+    text-align: end;
+}
+
+.desc-txt {
+    text-transform: uppercase;
+    font-weight: 200;
+    font-size: 14px;
+}
+
+.prod-title h4 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.ingredient-section,
+.prepare-section {
+    text-align: justify;
+}
+
+.ingredient-title,
+.prepare-title {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.ingredient-desc,
+.prepare-desc {
+    font-size: 14px;
+}
+
+.desc {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.rating {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 37px;
+    margin-top: 5px;
+    font-size: 13px;
+}
+
+.number {
+    background-color: black;
+    color: white;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    width: 88%;
+    align-items: center;
+    justify-content: center;
+}
