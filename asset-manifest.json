@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/coda-global-task/static/css/main.acff3367.chunk.css",
-    "main.js": "/coda-global-task/static/js/main.95327e3b.chunk.js",
-    "main.js.map": "/coda-global-task/static/js/main.95327e3b.chunk.js.map",
+    "main.js": "/coda-global-task/static/js/main.2ada1a57.chunk.js",
+    "main.js.map": "/coda-global-task/static/js/main.2ada1a57.chunk.js.map",
     "runtime-main.js": "/coda-global-task/static/js/runtime-main.5e4f19eb.js",
     "runtime-main.js.map": "/coda-global-task/static/js/runtime-main.5e4f19eb.js.map",
     "static/js/2.e86dab0c.chunk.js": "/coda-global-task/static/js/2.e86dab0c.chunk.js",
     "static/js/2.e86dab0c.chunk.js.map": "/coda-global-task/static/js/2.e86dab0c.chunk.js.map",
     "index.html": "/coda-global-task/index.html",
-    "precache-manifest.d8288cdfff444b5b9839167a1263b0a3.js": "/coda-global-task/precache-manifest.d8288cdfff444b5b9839167a1263b0a3.js",
+    "precache-manifest.1af4ca8d3fb14a191bbd63ee32d5a1b4.js": "/coda-global-task/precache-manifest.1af4ca8d3fb14a191bbd63ee32d5a1b4.js",
     "service-worker.js": "/coda-global-task/service-worker.js",
     "static/css/main.acff3367.chunk.css.map": "/coda-global-task/static/css/main.acff3367.chunk.css.map",
     "static/js/2.e86dab0c.chunk.js.LICENSE.txt": "/coda-global-task/static/js/2.e86dab0c.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.5e4f19eb.js",
     "static/js/2.e86dab0c.chunk.js",
     "static/css/main.acff3367.chunk.css",
-    "static/js/main.95327e3b.chunk.js"
+    "static/js/main.2ada1a57.chunk.js"
   ]
 }

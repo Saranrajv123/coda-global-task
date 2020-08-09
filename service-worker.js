@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/coda-global-task/precache-manifest.d8288cdfff444b5b9839167a1263b0a3.js"
+  "/coda-global-task/precache-manifest.1af4ca8d3fb14a191bbd63ee32d5a1b4.js"
 );
 
 self.addEventListener('message', (event) => {
