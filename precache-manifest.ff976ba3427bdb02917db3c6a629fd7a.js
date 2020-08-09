@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58caf427725642464ab673c299f32e10",
+    "revision": "000d6eba7109f69e291b4859ea7ed1a0",
     "url": "/coda-global-task/index.html"
   },
   {
-    "revision": "8a6489f56f10c229d771",
+    "revision": "89808cdec27c4722ddf0",
     "url": "/coda-global-task/static/css/main.acff3367.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coda-global-task/static/js/2.e86dab0c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a6489f56f10c229d771",
-    "url": "/coda-global-task/static/js/main.8981abfe.chunk.js"
+    "revision": "89808cdec27c4722ddf0",
+    "url": "/coda-global-task/static/js/main.a1f15c3b.chunk.js"
   },
   {
     "revision": "c55673c6ac6cd3137075",
